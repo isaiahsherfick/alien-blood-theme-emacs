@@ -88,7 +88,7 @@
  '(diff-hunk-header                    ((t (:background "#242130"))))
 
 
- '(font-lock-comment-face ((t (:foreground "#2c340c"  ))))
+ '(font-lock-comment-face ((t (:foreground "#02cfb5"  ))))
  '(font-lock-keyword-face ((t (:foreground "#637d75"  ))))
  '(font-lock-variable-name-face ((t (:foreground "#2f7e25"  ))))
  '(font-lock-function-name-face ((t (:foreground "#18e000"  ))))
