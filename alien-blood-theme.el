@@ -15,15 +15,13 @@
 (deftheme alien-blood
   "alien-blood-theme - Created by tmtheme-to-deftheme - 2018-08-30 11:02:29 +0200")
 
-(custom-theme-set-variables
- 'alien-blood
-)
+(custom-theme-set-variables 'alien-blood)
 
 (custom-theme-set-faces
  'alien-blood
  ;; basic theming.
 
- '(default ((t (:foreground "#637d75" :background "#111812" ))))
+ '(default ((t (:foreground "#839d95" :background "#111812" ))))
  '(region  ((t (:background "#1D4125"))))
  '(cursor  ((t (:background "#637d75"))))
 
@@ -113,8 +111,7 @@
  '(rainbow-delimiters-depth-7-face ((t (:foreground "#6f8d83"))))
  '(rainbow-delimiters-depth-8-face ((t (:foreground "#78948b"))))
  '(rainbow-delimiters-depth-9-face ((t (:foreground "#809b92"))))
- '(rainbow-delimiters-unmatched-face ((t (:foreground "#FF0000"))))
-) ;; End face definitions
+ '(rainbow-delimiters-unmatched-face ((t (:foreground "#FF0000"))))) ;; End face definitions
 
 ;;;###autoload
 (when load-file-name
@@ -126,5 +123,3 @@
 ;; Local Variables:
 ;; eval: (when (fboundp 'rainbow-mode) (rainbow-mode +1))
 ;; End:
-
-;;; alien-blood-theme.el ends here
