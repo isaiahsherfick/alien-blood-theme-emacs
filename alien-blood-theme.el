@@ -31,7 +31,7 @@
 
  '(minibuffer-prompt                   ((t (:foreground "#1278A8"  :background nil       :weight bold                                  ))))
  '(escape-glyph                        ((t (:foreground "orange"   :background nil                                                     ))))
- '(highlight                           ((t (:foreground "green"   :background nil                                                     ))))
+ '(highlight                           ((t (:foreground "#AAFFAA"   :background nil                                                     ))))
  '(shadow                              ((t (:foreground "#777777"  :background nil                                                     ))))
 
  '(trailing-whitespace                 ((t (:foreground "#FFFFFF"  :background "#C74000"                                               ))))
