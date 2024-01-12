@@ -27,7 +27,7 @@
 
  ;; Temporary defaults
  '(linum                               ((t (:foreground "#212c26"  :background "#19221c" ))))
- '(fringe                              ((t (                       :background "#19221c" ))))
+ '(fringe                              ((t (                       :background "#09120c" ))))
 
  '(minibuffer-prompt                   ((t (:foreground "#1278A8"  :background nil       :weight bold                                  ))))
  '(escape-glyph                        ((t (:foreground "orange"   :background nil                                                     ))))
